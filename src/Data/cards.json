@@ -1,0 +1,29 @@
+{
+    "cards": [
+{ 
+    "id": 1,
+    "eng": "Hello!",
+    "fr": "Bonjour!"
+},
+{ 
+    "id": 2,
+    "eng": "Goodbye!",
+    "fr": "Au revoir!"
+},
+{ 
+    "id": 3,
+    "eng": "to eat",
+    "fr": "Manger"
+},
+{ 
+    "id": 4,
+    "eng": "to drink",
+    "fr": "Boire"
+},
+{ 
+    "id": 5,
+    "eng": "Cute",
+    "fr": "Mignon/Mignonne"
+}
+]
+}
